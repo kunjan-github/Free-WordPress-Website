@@ -1,0 +1,117 @@
+Hello, my name is Stacey Langford.
+Welcome to build a full website around
+a blog using WordPress. By the end of this project, you 
+will create a full website that is attractive and user
+friendly.
+Using a free content management system, WordPress, you will
+learn how to develop using front and backend development
+while implementing themes and plug ins.
+Using the web creation tool, you'll have a virtual space
+to showcase your business with customers who want
+to stay connected.
+Here's a peek at the finished website.
+Let's get started.
+You should navigate to www dot wordpress dot com.
+You should already have a WordPress account.
+If you do not pause the video now to create and set up your
+WordPress account. You should navigate to your website
+dashboard.
+In order to begin setting up your website, we're going
+to create a brand new website in WordPress.
+The new website is going to be about classic bicycles.
+It will include information related to classic or vintage
+bicycles.
+In order to do this, click on the My site button in the upper
+left corner of the page, using the navigation tools
+on the left pane.
+Look to the very bottom for the link that shows a plus sign
+inside a circle and and says add a new site, Click on the link.
+You'll be taken to a new page, prompting you to create
+a brand new site or add an existing site
+using a plug in.
+We want to create a brand new site.
+Click on that pink start now button under the WordPress logo.
+Since we want to create a free site at this point, click
+on the link that says, Start with a free site.
+You will need to type the domain you wish to create
+in the search box for this lesson.
+Choose generic keywords to search.
+You can type keywords that go along with the theme
+of the website Classic Bicycles.
+Then, choose the generic domain name that is free.
+It is the top option on the list
+under the paid suggestions. Remember that you can always
+change it later if you wish.
+If you run into an issue, noting that you must have an active
+token when creating your brand new website, this is a system
+glitch.
+Clear your cache and cookies or open a different Web browser
+and log into your website again. Once you have created your
+free website, you will be taken directly to the developer
+home page for the new website.
+Make sure that you are indeed on the home page for your new
+website
+by looking at the upper left corner of the page. You'll see
+the site title and the new URL immediately below it.
+Let's get the home page of the site set up.
+We can do this by following the checklist titled site set up
+list. We want to give the site a name.
+Let's go ahead and click on the button that says, name your
+site. Click in the box that says Site title and type.
+Learn to create a website or you go ahead, and title
+your site Classic bicycles or For the Love of Bikes, which
+will go with the theme of the page.
+Let's go ahead and use for the love of bikes.
+If you do use learn to create a website, this will help
+me know that this was the Web site you built to begin with.
+We want to add the text for the site tagline.
+So click on site tagline and type in the phrase you
+can't buy happiness, but you can buy a bike and that's
+pretty close.
+Click save settings to change your settings or to save your
+changes.
+Scroll down to change the site time zone for your location.
+I'm going to leave the default setting for site timezone,
+but if you click on the box, then you can change your time
+zone. We'll leave ours, this one in Chicago.
+We will leave the rest of the settings on the default setting
+at this time, but take note of the following tools.
+The custom address.
+You can add a custom address later, but this is where you go
+to change your domain to one that is more suitable
+for the website.
+Do not press the launch site button at this time.
+We will launch our site later.
+Once the content has been created, the footer credit.
+can be changed once you purchase your own domain.
+And if in the future you need to delete content or delete
+your site permanently, you can use this menu.
+It falls under the settings link in the navigation
+on the left side of the page.
+Let's go back to the top and click on the save settings
+Button.
+Let's go ahead and return to the site
+Set up list. Click come on the my home link in the navigation
+on the left side of the page.
+You should see the checklist again.
+It may have already been populated for you.
+Click on the Update Home page button.
+The Home page is the first page of Web site visitors will see
+when they navigate to your website, so we want to make a good
+impression.
+The home page set up is the last change or adjustment that
+is made.
+The next two items in the set up list  prompt us
+to launch our website and get the WordPress app.
+We will launch our website once we're finished building it.
+The WordPress app allows for site maintenance and the ability
+to watch site analytics while you are away from your
+computer.
+You may choose to do this later. If you need more time
+to complete the first three items on the site checklist
+and download the WordPress app,
+Pause the video now.
+In this task, we completed the first three items of the site
+checklist.
+In the next task, we will finish the site set up checklist
+by updating and editing the homepage.
